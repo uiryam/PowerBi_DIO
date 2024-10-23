@@ -35,7 +35,7 @@ Este desafio foi uma ótima oportunidade para aplicar conhecimentos em modelagem
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/uiryam/PowerBi_DIO/edit/main/Desafio%20Simple%20Finance/Projeto_Finance_Simple.pbix
+   git clone https://github.com/uiryam/PowerBi_DIO/blob/main/Desafio%20Simple%20Finance/Projeto%20Finance%20Simple.pbix
    ```
 
 2. Abra o arquivo no Power BI Desktop.
