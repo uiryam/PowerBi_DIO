@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi desenvolvido como parte do desafio proposto pela Dio, utilizando a plataforma Simple Finance. O objetivo foi aplicar técnicas de modelagem de dados para criar um esquema estrela, incorporando uma tabela fato e diversas tabelas dimensões, conforme as diretrizes do desafio.
+Este projeto foi desenvolvido como parte do desafio proposto pela Dio, utilizando a base Simple Finance. O objetivo foi aplicar técnicas de modelagem de dados para criar um esquema estrela, incorporando uma tabela fato e diversas tabelas dimensões, conforme as diretrizes do desafio.
 
 ## Estrutura do Modelo
 
@@ -27,7 +27,7 @@ Além disso, realizei agrupamentos de informações para facilitar a visualizaç
 
 ## Conclusão
 
-Este desafio foi uma ótima oportunidade para aplicar conhecimentos em modelagem de dados e DAX, resultando em um modelo robusto e funcional no Power BI. Agradeço a todos os envolvidos e espero que este projeto possa inspirar outros a explorarem o mundo da análise de dados!
+Este desafio foi uma ótima oportunidade para aplicar conhecimentos em modelagem de dados e DAX, resultando em um modelo robusto e funcional no Power BI.
 
 ---
 
@@ -35,7 +35,7 @@ Este desafio foi uma ótima oportunidade para aplicar conhecimentos em modelagem
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/uiryam/PowerBi_DIO/edit/main/Desafio%20Simple%20Finance/Projeto_Finance_Simple.pbix
    ```
 
 2. Abra o arquivo no Power BI Desktop.
